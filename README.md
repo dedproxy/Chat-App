@@ -24,7 +24,7 @@ Get Started:
 5. Open the application in your browser
 
 Note:
-Currrently in buildding Phase.
+Currrently in building Phase.
 
 Contributions:
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to create a new issue or submit a pull request.
